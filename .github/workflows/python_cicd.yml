@@ -21,7 +21,9 @@ jobs:
         pip install -r requirements.txt
     - name: Build Python One module
       run: |
-        bash build.sh
+        bash compile_one.sh; rm one.so
+      run: |
+        bash build_one.sh
     - name: Run Tests
       run: |
         pytest

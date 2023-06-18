@@ -1,4 +1,4 @@
-DevOps Assignments for Between Technologies Job Application
+# DevOps Assignments for BETWEEN Technology job application
 
 This repository contains all the code required for the three exercises in the assignments.
 

@@ -1,4 +1,4 @@
 #include "one.h"
 int func() {
-   return 0;
+   return 1;.
 }
